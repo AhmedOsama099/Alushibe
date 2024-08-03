@@ -1,3 +1,3 @@
 export default function Home() {
-  return <>home</>
+  return <div className="h-[1000px] w-full"></div>
 }
